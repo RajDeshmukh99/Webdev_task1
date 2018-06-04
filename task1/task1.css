@@ -1,0 +1,53 @@
+.table
+	{
+		display: table;
+		width: 90%;
+		position: relative;
+		margin-top: 1ppx;
+		margin-left: 8%;
+	}
+.row1
+	{
+		display: table-row;
+		color: skyblue;
+	}
+.caption
+	{
+		display: table-caption;
+		color: skyblue;
+		padding: 10;
+	}
+.row
+	{
+		color: #FAEBD7;
+		display: table-row;
+	}
+.cells
+	{
+		display: table-cell;
+		padding-top: 10;
+		padding-left: 10;
+		padding-right: 70;
+	}
+#img01
+	{
+		bottom: 0;
+		float:right;
+	}
+#arrow
+{
+	position: relative;
+	margin-left: 50%;
+}
+.footer
+	{
+		display: table;
+		position: fixed;
+		right: 0;
+		bottom:0;
+	}
+.imgcells
+	{
+		display: table-cell;
+		padding: 10;
+	}
